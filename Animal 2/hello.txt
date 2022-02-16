@@ -1,0 +1,10 @@
+Alpaca
+Antelope
+Leopard
+Cat
+Cattle
+Dog
+Goat
+Donkey
+Guinea pig
+Horse
